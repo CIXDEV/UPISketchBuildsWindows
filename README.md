@@ -1,7 +1,6 @@
 # UPISketchBuilds
 
 To install UPISketch on your WINDOWS machine:
-- click on the upper-right link above, "Clone or Download"
+- click on the link in the right column, under "Releases"
 - download
-- unzip
 - launch the installer
